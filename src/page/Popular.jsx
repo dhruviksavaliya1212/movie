@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import logo from "../assets/logoyoutube.webp";
 import MovieCredit from "../components/MovieCredit";
 import ProfileImages from "../components/ProfileImages";
 import SeriesCredit from "../components/SeriesCredit";

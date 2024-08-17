@@ -1,11 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import Cast from "../components/Cast";
-import Similar from "../components/similar";
-import Recomendation from "../components/Recomendation";
 import logo from "../assets/logoyoutube.webp";
-import Poster from "../components/Poster";
 import Poster2 from "../components/Poster2";
 import Similar2 from "../components/Similar2";
 import Recomendation2 from "../components/Recomendation2";
